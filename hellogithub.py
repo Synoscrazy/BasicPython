@@ -1,2 +1,4 @@
 print('hello github')
-print('hello wolrd')
+
+
+print('by KRITIN')
